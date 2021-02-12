@@ -1,1 +1,313 @@
-<mxfile host="app.diagrams.net" modified="2021-02-12T05:13:00.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.3.1" etag="yBkHwhRauO9R4c_SX2tl" type="github"><diagram id="WAxSU3YmXjZUV4MQDgeL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-12T05:28:38.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="WnS9TAhyEdCK8SOp4Rbm" version="14.3.1" type="github">
+  <diagram id="WAxSU3YmXjZUV4MQDgeL" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YW2AgiezfiN-8cc8-kEG-1" target="YW2AgiezfiN-8cc8-kEG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-1" value="Easy&lt;br&gt;#有10次機會" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-2" value="Hard&lt;br&gt;#有5次機會" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-4" value="chose a number in 1 to 100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-6" value="猜第1個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-90" width="20" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-8" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="YW2AgiezfiN-8cc8-kEG-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="269.5" y="170" as="sourcePoint" />
+            <mxPoint x="269.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="273" y="272" as="sourcePoint" />
+            <mxPoint x="273" y="332" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="229.5" as="sourcePoint" />
+            <mxPoint x="130" y="229.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-13" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-14" value="猜第2個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="273" y="412" as="sourcePoint" />
+            <mxPoint x="273" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="369.5" as="sourcePoint" />
+            <mxPoint x="130" y="369.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-17" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-18" value="猜第3個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-19" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="273" y="552" as="sourcePoint" />
+            <mxPoint x="273" y="612" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="509.5" as="sourcePoint" />
+            <mxPoint x="130" y="509.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-21" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-22" value="猜第4個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-23" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="273" y="702" as="sourcePoint" />
+            <mxPoint x="273" y="762" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-24" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="659.5" as="sourcePoint" />
+            <mxPoint x="130" y="659.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-25" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-26" value="猜第5個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="273" y="842" as="sourcePoint" />
+            <mxPoint x="273" y="902" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-28" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="799.5" as="sourcePoint" />
+            <mxPoint x="130" y="799.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-29" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-71" value="猜第6個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="901" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-72" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277" y="973" as="sourcePoint" />
+            <mxPoint x="277" y="1033" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-73" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="930.5" as="sourcePoint" />
+            <mxPoint x="134" y="930.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-74" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="901" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-75" value="猜第7個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="1031" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-76" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277" y="1113" as="sourcePoint" />
+            <mxPoint x="277" y="1173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-77" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="1070.5" as="sourcePoint" />
+            <mxPoint x="134" y="1070.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-78" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="1041" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-79" value="猜第8個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="1171" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-80" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277" y="1253" as="sourcePoint" />
+            <mxPoint x="277" y="1313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-81" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="1210.5" as="sourcePoint" />
+            <mxPoint x="134" y="1210.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-82" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="1181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-83" value="猜第9個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="1321" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-84" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277" y="1403" as="sourcePoint" />
+            <mxPoint x="277" y="1463" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-85" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="1360.5" as="sourcePoint" />
+            <mxPoint x="134" y="1360.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-86" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="1331" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-87" value="猜第10個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="1461" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-88" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277" y="1543" as="sourcePoint" />
+            <mxPoint x="277" y="1603" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-89" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="1500.5" as="sourcePoint" />
+            <mxPoint x="134" y="1500.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-90" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="1471" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-91" value="you loss" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-92" value="猜第1個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-93" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="653" y="272" as="sourcePoint" />
+            <mxPoint x="653" y="332" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-94" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="229.5" as="sourcePoint" />
+            <mxPoint x="510" y="229.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-95" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-96" value="猜第2個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-97" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="653" y="412" as="sourcePoint" />
+            <mxPoint x="653" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-98" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="369.5" as="sourcePoint" />
+            <mxPoint x="510" y="369.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-99" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-100" value="猜第3個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-101" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="653" y="552" as="sourcePoint" />
+            <mxPoint x="653" y="612" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-102" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="509.5" as="sourcePoint" />
+            <mxPoint x="510" y="509.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-103" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-104" value="猜第4個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-105" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="653" y="702" as="sourcePoint" />
+            <mxPoint x="653" y="762" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-106" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="659.5" as="sourcePoint" />
+            <mxPoint x="510" y="659.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-107" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-108" value="猜第5個數字" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-109" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="653" y="842" as="sourcePoint" />
+            <mxPoint x="653" y="902" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-110" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="799.5" as="sourcePoint" />
+            <mxPoint x="510" y="799.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-111" value="you got it" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-114" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="647" y="172" as="sourcePoint" />
+            <mxPoint x="646.1762444960668" y="200.00768713372963" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YW2AgiezfiN-8cc8-kEG-116" value="you loss" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="901" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
